@@ -1,0 +1,1 @@
+TestTaskLog.exe --file-log D:\projects\TestTaskLog\TestTaskLog\testLogs.TXT --file-output D:\projects\TestTaskLog\TestTaskLog\testOutput.TXT --address-start 192.168.0.3 --address-mask 12 --time-start "2024-04-08 10:02:00" --time-end "2024-04-08 10:07:00"
